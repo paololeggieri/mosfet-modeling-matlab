@@ -1,5 +1,7 @@
-# mosfet-modeling-matlab
-Long-channel MOSFET modeling in MATLAB (Id–Vgs, Id–Vds, cutoff/linear/saturation).
+# MOSFET Modeling (MATLAB)
+
+Long-channel MOSFET modeling using a simple square-law (Shichman–Hodges style) approach.
+
 ## Step 1: Transfer curve (Id–Vgs)
 - Script: code/mosfet_transfer_Id_Vgs.m
 - Output: figures/mosfet_transfer_Id_Vgs.png
